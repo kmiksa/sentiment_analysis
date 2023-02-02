@@ -1,0 +1,16 @@
+{
+    "seed_val": 17,
+    "device": "cpu",
+    "epochs": 5,
+    "batch_size": 64,
+    "seq_length": 512,
+    "lr": 2e-05,
+    "eps": 1e-08,
+    "pretrained_model": "bert-base-uncased",
+    "random_state": 42,
+    "add_special_tokens": true,
+    "return_attention_mask": true,
+    "pad_to_max_length": true,
+    "do_lower_case": false,
+    "return_tensors": "pt"
+}
