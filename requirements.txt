@@ -2,7 +2,7 @@ anyio==2.1.0
 aquirdturtle-collapsible-headings==3.0.1
 black==19.10b0
 ipywidgets==7.6.3
-jupyterlab==3.0.5
+jupyterlab==3.6.7
 jupyterlab-execute-time==2.0.2
 nb_black==1.0.7
 tqdm==4.54.1
